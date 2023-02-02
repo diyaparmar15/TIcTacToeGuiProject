@@ -29,8 +29,6 @@ There are no save/load functionalities included in the assignment
 ## Author Information
 
 Diya Parmar
-ID: 1168469
-Email: dparma01@uoguelph.ca
 
 ## Development History
 
